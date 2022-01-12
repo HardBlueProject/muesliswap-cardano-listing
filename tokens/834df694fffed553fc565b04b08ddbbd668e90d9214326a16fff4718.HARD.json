@@ -1,0 +1,9 @@
+{
+  "policyId": "834df694fffed553fc565b04b08ddbbd668e90d9214326a16fff4718",
+  "name": "HARD",
+  "symbol": "HARD",
+  "website": "https://hard.blue",
+  "description": "Real hard money on the Cardano blockchain. Scalable system for payments and value transfer between people.",
+  "totalSupply": 2100000000,
+  "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000]
+}
